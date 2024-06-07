@@ -1,0 +1,13 @@
+strong{
+    position: absolute;
+}
+
+.dz{
+    text-decoration: none; /* アンダーラインをなしにする */
+        color: inherit; /* デフォルトの文字色を継承する */
+}
+
+.gd{
+    text-decoration: none; /* アンダーラインをなしにする */
+        color: inherit; /* デフォルトの文字色を継承する */
+}
